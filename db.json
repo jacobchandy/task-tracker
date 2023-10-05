@@ -11,6 +11,12 @@
       "day": "16th Friday at 10pm",
       "reminder": true,
       "id": 2
+    },
+    {
+      "text": "Wedding",
+      "day": "20th at 10pm",
+      "reminder": false,
+      "id": 3
     }
   ]
 }
